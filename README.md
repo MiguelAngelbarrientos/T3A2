@@ -12,7 +12,7 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
   2. proceso:
     - sumar las horas de la diferencia del dia anteriror.
     3. salida:
-    ~~
+    ~~~
     +------------------------------------------------------+
     |     DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO   |
     +------------------------------------------------------+
@@ -22,8 +22,9 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
     | Han transcurrido # horas desde el dia martes al dia  |
     | jueves en las horas indicadas.                       |
     +------------------------------------------------------+
-    ~~
+    ~~~
     ## Etapa 3. Diseño de la solucion
     ![](https://github.com/MiguelAngelbarrientos/T3A2/blob/main/T3A2.pngA.png)
     
     Etapa 4. desarrollo de la solucion
+    ()
