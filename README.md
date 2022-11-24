@@ -27,4 +27,4 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
     ![](https://github.com/MiguelAngelbarrientos/T3A2/blob/main/T3A2.pngA.png)
     
     Etapa 4. desarrollo de la solucion
-    ()
+    https://github.com/MiguelAngelbarrientos/T3A2/blob/main/Horario.zip
